@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# It is a script to displays a statement indefinitely
+while true; do
+    echo "To infinity and beyond"
+    sleep 2
+done
